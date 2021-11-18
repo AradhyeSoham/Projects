@@ -1,0 +1,62 @@
+
+    body{
+    /*background-color: skyblue;*/
+    background: rgb(0, 0, 0) ;
+    font-family:Arial, Helvetica, sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-variant: small-caps;
+    font-weight: bold;
+    }
+
+    #header{
+    margin-top: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    }
+
+    #header h2{
+    font-weight: bold;
+    text-decoration: underline ;
+    color: #fff;
+    }
+
+    .card{
+    border: 1px solid transparent;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0);
+    }
+
+    .inputcity{
+    background-color:rgba(255, 255, 255, 0.7);
+    border-radius:15px;
+    color:rgb(0, 0, 0);
+    font-size: large;
+    }
+
+    .location{
+    font-size:xxx-large;
+    color: rgb(255, 255, 255);
+    }
+
+    .date{
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+
+    }
+    
+    .temp{
+    font-size: 12vh;
+    }
+
+    .weather{
+        font-size: 4vh;
+        color: rgb(255, 255, 255);
+
+    }
+
+    .m-auto{
+        display:gr;
+    }
